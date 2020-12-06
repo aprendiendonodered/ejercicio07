@@ -1,6 +1,6 @@
 {
     "name": "EJERCICIO07",
-    "description": "A Node-RED Project",
+    "description": "Ejercicio 07 del curso aprendiendonodered",
     "version": "0.0.1",
     "dependencies": {},
     "node-red": {
